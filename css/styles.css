@@ -11,5 +11,18 @@ body {
   background: url(../assets/background.png);
   background-size: cover;
   background-position: center;
+  padding: 20px;
+}
+
+img {
+  max-width: 100%;
+}
+
+div.container {
+  background: #fff;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: 1fr 1fr;
+      grid-template-rows: 1fr 1fr;
 }
 /*# sourceMappingURL=styles.css.map */
