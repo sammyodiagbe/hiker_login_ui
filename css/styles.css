@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background: url(../assets/background.png);
+  background-size: cover;
+  background-position: center;
+}
+/*# sourceMappingURL=styles.css.map */
